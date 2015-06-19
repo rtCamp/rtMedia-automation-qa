@@ -7,11 +7,10 @@
 
 module.exports ={
 
-  USERNAME:  'prabuddha',                        //  'rtcamp.net',
-  PASSWORD:  'LSsKeHAqpa1m5DF',       //'k5VT6uLigpcWRSa',
+  USERNAME:  'rtcamptest',                        
+  PASSWORD:  'LSsKeHAqpa1m5DF',
 
-   //USERNAME:  'rtcamp.net',  //'prabuddha',                        //  'rtcamp.net',
-   //PASSWORD: 'akash@4251', // 'QlNC0qIT4RHphf6',                    //'akash@4251',
+
 
    TESTAUTHOR: 'TestAuthor',
    TESTAUTHORPASSWORD: 'testa',
@@ -25,8 +24,8 @@ module.exports ={
    TESTADMINPASSWORD: 'TESTA',
 
    urls: {
-    // LOGIN: 'http://akashqatester.rtcamp.net' //'http://prabuddha.rtcamp.net'
-      LOGIN: 'http://rtmediatest.com'        // 'http://akashqatester.rtcamp.net'
+
+      LOGIN: 'http://rtmediatest.com'
 
    },
 
